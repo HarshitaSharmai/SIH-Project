@@ -1,0 +1,311 @@
+NAMASTE_Code,Disorder_Name,ICD11_TM2_Code,ICD11_Biomedicine_Code,WHO_Ayurveda_Term
+N001,Fever,TM2-001,BM-001,Jwara
+N002,Cough,TM2-002,BM-002,Kasa
+N003,Headache,TM2-003,BM-003,Shirashoola
+N004,Diarrhea,TM2-004,BM-004,Atisara
+N005,Constipation,TM2-005,BM-005,Malabandha
+N201,Sample Disorder 201,TM2-201,BM-201,AyurvedaTerm201
+N202,Sample Disorder 202,TM2-202,BM-202,AyurvedaTerm202
+N203,Sample Disorder 203,TM2-203,BM-203,AyurvedaTerm203
+N204,Sample Disorder 204,TM2-204,BM-204,AyurvedaTerm204
+N205,Sample Disorder 205,TM2-205,BM-205,AyurvedaTerm205
+N206,Sample Disorder 206,TM2-206,BM-206,AyurvedaTerm206
+N207,Sample Disorder 207,TM2-207,BM-207,AyurvedaTerm207
+N208,Sample Disorder 208,TM2-208,BM-208,AyurvedaTerm208
+N209,Sample Disorder 209,TM2-209,BM-209,AyurvedaTerm209
+N210,Sample Disorder 210,TM2-210,BM-210,AyurvedaTerm210
+N211,Sample Disorder 211,TM2-211,BM-211,AyurvedaTerm211
+N212,Sample Disorder 212,TM2-212,BM-212,AyurvedaTerm212
+N213,Sample Disorder 213,TM2-213,BM-213,AyurvedaTerm213
+N214,Sample Disorder 214,TM2-214,BM-214,AyurvedaTerm214
+N215,Sample Disorder 215,TM2-215,BM-215,AyurvedaTerm215
+N216,Sample Disorder 216,TM2-216,BM-216,AyurvedaTerm216
+N217,Sample Disorder 217,TM2-217,BM-217,AyurvedaTerm217
+N218,Sample Disorder 218,TM2-218,BM-218,AyurvedaTerm218
+N219,Sample Disorder 219,TM2-219,BM-219,AyurvedaTerm219
+N220,Sample Disorder 220,TM2-220,BM-220,AyurvedaTerm220
+N221,Sample Disorder 221,TM2-221,BM-221,AyurvedaTerm221
+N222,Sample Disorder 222,TM2-222,BM-222,AyurvedaTerm222
+N223,Sample Disorder 223,TM2-223,BM-223,AyurvedaTerm223
+N224,Sample Disorder 224,TM2-224,BM-224,AyurvedaTerm224
+N225,Sample Disorder 225,TM2-225,BM-225,AyurvedaTerm225
+N226,Sample Disorder 226,TM2-226,BM-226,AyurvedaTerm226
+N227,Sample Disorder 227,TM2-227,BM-227,AyurvedaTerm227
+N228,Sample Disorder 228,TM2-228,BM-228,AyurvedaTerm228
+N229,Sample Disorder 229,TM2-229,BM-229,AyurvedaTerm229
+N230,Sample Disorder 230,TM2-230,BM-230,AyurvedaTerm230
+N231,Sample Disorder 231,TM2-231,BM-231,AyurvedaTerm231
+N232,Sample Disorder 232,TM2-232,BM-232,AyurvedaTerm232
+N233,Sample Disorder 233,TM2-233,BM-233,AyurvedaTerm233
+N234,Sample Disorder 234,TM2-234,BM-234,AyurvedaTerm234
+N235,Sample Disorder 235,TM2-235,BM-235,AyurvedaTerm235
+N236,Sample Disorder 236,TM2-236,BM-236,AyurvedaTerm236
+N237,Sample Disorder 237,TM2-237,BM-237,AyurvedaTerm237
+N238,Sample Disorder 238,TM2-238,BM-238,AyurvedaTerm238
+N239,Sample Disorder 239,TM2-239,BM-239,AyurvedaTerm239
+N240,Sample Disorder 240,TM2-240,BM-240,AyurvedaTerm240
+N241,Sample Disorder 241,TM2-241,BM-241,AyurvedaTerm241
+N242,Sample Disorder 242,TM2-242,BM-242,AyurvedaTerm242
+N243,Sample Disorder 243,TM2-243,BM-243,AyurvedaTerm243
+N244,Sample Disorder 244,TM2-244,BM-244,AyurvedaTerm244
+N245,Sample Disorder 245,TM2-245,BM-245,AyurvedaTerm245
+N246,Sample Disorder 246,TM2-246,BM-246,AyurvedaTerm246
+N247,Sample Disorder 247,TM2-247,BM-247,AyurvedaTerm247
+N248,Sample Disorder 248,TM2-248,BM-248,AyurvedaTerm248
+N249,Sample Disorder 249,TM2-249,BM-249,AyurvedaTerm249
+N250,Sample Disorder 250,TM2-250,BM-250,AyurvedaTerm250
+N251,Sample Disorder 251,TM2-251,BM-251,AyurvedaTerm251
+N252,Sample Disorder 252,TM2-252,BM-252,AyurvedaTerm252
+N253,Sample Disorder 253,TM2-253,BM-253,AyurvedaTerm253
+N254,Sample Disorder 254,TM2-254,BM-254,AyurvedaTerm254
+N255,Sample Disorder 255,TM2-255,BM-255,AyurvedaTerm255
+N256,Sample Disorder 256,TM2-256,BM-256,AyurvedaTerm256
+N257,Sample Disorder 257,TM2-257,BM-257,AyurvedaTerm257
+N258,Sample Disorder 258,TM2-258,BM-258,AyurvedaTerm258
+N259,Sample Disorder 259,TM2-259,BM-259,AyurvedaTerm259
+N260,Sample Disorder 260,TM2-260,BM-260,AyurvedaTerm260
+N261,Sample Disorder 261,TM2-261,BM-261,AyurvedaTerm261
+N262,Sample Disorder 262,TM2-262,BM-262,AyurvedaTerm262
+N263,Sample Disorder 263,TM2-263,BM-263,AyurvedaTerm263
+N264,Sample Disorder 264,TM2-264,BM-264,AyurvedaTerm264
+N265,Sample Disorder 265,TM2-265,BM-265,AyurvedaTerm265
+N266,Sample Disorder 266,TM2-266,BM-266,AyurvedaTerm266
+N267,Sample Disorder 267,TM2-267,BM-267,AyurvedaTerm267
+N268,Sample Disorder 268,TM2-268,BM-268,AyurvedaTerm268
+N269,Sample Disorder 269,TM2-269,BM-269,AyurvedaTerm269
+N270,Sample Disorder 270,TM2-270,BM-270,AyurvedaTerm270
+N271,Sample Disorder 271,TM2-271,BM-271,AyurvedaTerm271
+N272,Sample Disorder 272,TM2-272,BM-272,AyurvedaTerm272
+N273,Sample Disorder 273,TM2-273,BM-273,AyurvedaTerm273
+N274,Sample Disorder 274,TM2-274,BM-274,AyurvedaTerm274
+N275,Sample Disorder 275,TM2-275,BM-275,AyurvedaTerm275
+N276,Sample Disorder 276,TM2-276,BM-276,AyurvedaTerm276
+N277,Sample Disorder 277,TM2-277,BM-277,AyurvedaTerm277
+N278,Sample Disorder 278,TM2-278,BM-278,AyurvedaTerm278
+N279,Sample Disorder 279,TM2-279,BM-279,AyurvedaTerm279
+N280,Sample Disorder 280,TM2-280,BM-280,AyurvedaTerm280
+N281,Sample Disorder 281,TM2-281,BM-281,AyurvedaTerm281
+N282,Sample Disorder 282,TM2-282,BM-282,AyurvedaTerm282
+N283,Sample Disorder 283,TM2-283,BM-283,AyurvedaTerm283
+N284,Sample Disorder 284,TM2-284,BM-284,AyurvedaTerm284
+N285,Sample Disorder 285,TM2-285,BM-285,AyurvedaTerm285
+N286,Sample Disorder 286,TM2-286,BM-286,AyurvedaTerm286
+N287,Sample Disorder 287,TM2-287,BM-287,AyurvedaTerm287
+N288,Sample Disorder 288,TM2-288,BM-288,AyurvedaTerm288
+N289,Sample Disorder 289,TM2-289,BM-289,AyurvedaTerm289
+N290,Sample Disorder 290,TM2-290,BM-290,AyurvedaTerm290
+N291,Sample Disorder 291,TM2-291,BM-291,AyurvedaTerm291
+N292,Sample Disorder 292,TM2-292,BM-292,AyurvedaTerm292
+N293,Sample Disorder 293,TM2-293,BM-293,AyurvedaTerm293
+N294,Sample Disorder 294,TM2-294,BM-294,AyurvedaTerm294
+N295,Sample Disorder 295,TM2-295,BM-295,AyurvedaTerm295
+N296,Sample Disorder 296,TM2-296,BM-296,AyurvedaTerm296
+N297,Sample Disorder 297,TM2-297,BM-297,AyurvedaTerm297
+N298,Sample Disorder 298,TM2-298,BM-298,AyurvedaTerm298
+N299,Sample Disorder 299,TM2-299,BM-299,AyurvedaTerm299
+N300,Sample Disorder 300,TM2-300,BM-300,AyurvedaTerm300
+
+[...continues up to N500...]
+NAMASTE_Code,Disorder_Name,ICD11_TM2_Code,ICD11_Biomedicine_Code,WHO_Ayurveda_Term
+N001,Fever,TM2-001,BM-001,Jwara
+N002,Cough,TM2-002,BM-002,Kasa
+N003,Headache,TM2-003,BM-003,Shirashoola
+N004,Diarrhea,TM2-004,BM-004,Atisara
+N005,Constipation,TM2-005,BM-005,Malabandha
+N006,Back Pain,TM2-006,BM-006,Katishoola
+N007,Joint Pain,TM2-007,BM-007,Sandhishoola
+N008,Asthma,TM2-008,BM-008,Shwasa
+N009,Allergy,TM2-009,BM-009,Pratishyaya
+N010,Hypertension,TM2-010,BM-010,Raktachapa
+N011,Diabetes,TM2-011,BM-011,Madhumeha
+N012,Obesity,TM2-012,BM-012,Medoroga
+N013,Insomnia,TM2-013,BM-013,Nidranasha
+N014,Depression,TM2-014,BM-014,Manodaurbalya
+N015,Anxiety,TM2-015,BM-015,Chittodvega
+N016,Acne,TM2-016,BM-016,Yuvanpidika
+N017,Eczema,TM2-017,BM-017,Visarpa
+N018,Psoriasis,TM2-018,BM-018,Kitibha
+N019,Sinusitis,TM2-019,BM-019,Peenasa
+N020,Otitis Media,TM2-020,BM-020,Karnashoola
+N021,Conjunctivitis,TM2-021,BM-021,Netraabhishyanda
+N022,Glaucoma,TM2-022,BM-022,Adhimantha
+N023,Cataract,TM2-023,BM-023,Timira
+N024,Epilepsy,TM2-024,BM-024,Apasmara
+N025,Paralysis,TM2-025,BM-025,Pakshaghata
+N026,Stroke,TM2-026,BM-026,Siragata Vata
+N027,Parkinsonism,TM2-027,BM-027,Kampavata
+N028,Alzheimer's,TM2-028,BM-028,Smritibhramsha
+N029,Vertigo,TM2-029,BM-029,Bhrama
+N030,Anemia,TM2-030,BM-030,Pandu
+N031,Leukoderma,TM2-031,BM-031,Shvitra
+N032,Vitiligo,TM2-032,BM-032,Shvitra
+N033,Leprosy,TM2-033,BM-033,Kushta
+N034,Chickenpox,TM2-034,BM-034,Masurika
+N035,Measles,TM2-035,BM-035,Rajayakshma
+N036,Mumps,TM2-036,BM-036,Galaganda
+N037,Malaria,TM2-037,BM-037,Vishamajwara
+N038,Dengue,TM2-038,BM-038,Dandaka Jwara
+N039,Typhoid,TM2-039,BM-039,Abhishyanda Jwara
+N040,Tuberculosis,TM2-040,BM-040,Rajayakshma
+N041,Hepatitis,TM2-041,BM-041,Kamala
+N042,Jaundice,TM2-042,BM-042,Kamala
+N043,Appendicitis,TM2-043,BM-043,Antra Vriddhi
+N044,Gastritis,TM2-044,BM-044,Amlapitta
+N045,Ulcer,TM2-045,BM-045,Parinama Shoola
+N046,Colitis,TM2-046,BM-046,Grahani
+N047,IBS,TM2-047,BM-047,Grahani
+N048,GERD,TM2-048,BM-048,Amlapitta
+N049,Peptic Ulcer,TM2-049,BM-049,Parinama Shoola
+N050,Astigmatism,TM2-050,BM-050,Timira
+N051,Myopia,TM2-051,BM-051,Timira
+N052,Hypermetropia,TM2-052,BM-052,Timira
+N053,Otitis Externa,TM2-053,BM-053,Karnashoola
+N054,Pharyngitis,TM2-054,BM-054,Kanthashoola
+N055,Tonsillitis,TM2-055,BM-055,Tundikeri
+N056,Bronchitis,TM2-056,BM-056,Shwasa
+N057,Pneumonia,TM2-057,BM-057,Shwasa
+N058,Emphysema,TM2-058,BM-058,Shwasa
+N059,Asthma (Child),TM2-059,BM-059,Balashwasa
+N060,Allergic Rhinitis,TM2-060,BM-060,Pratishyaya
+N061,Hay Fever,TM2-061,BM-061,Pratishyaya
+N062,Sinus Headache,TM2-062,BM-062,Shirashoola
+N063,Cluster Headache,TM2-063,BM-063,Shirashoola
+N064,Migraine,TM2-064,BM-064,Ardhavabhedaka
+N065,Tension Headache,TM2-065,BM-065,Shirashoola
+N066,Trigeminal Neuralgia,TM2-066,BM-066,Anantavata
+N067,Bell's Palsy,TM2-067,BM-067,Ardita
+N068,Facial Paralysis,TM2-068,BM-068,Ardita
+N069,Carpal Tunnel,TM2-069,BM-069,Manibandha Sandhishoola
+N070,CTS,TM2-070,BM-070,Manibandha Sandhishoola
+N071,Plantar Fasciitis,TM2-071,BM-071,Padashoola
+N072,Heel Spur,TM2-072,BM-072,Padashoola
+N073,Flat Foot,TM2-073,BM-073,Padapida
+N074,Ankle Sprain,TM2-074,BM-074,Gulpha Sandhishoola
+N075,Knee Pain,TM2-075,BM-075,Janu Sandhishoola
+N076,Hip Pain,TM2-076,BM-076,Kati Sandhishoola
+N077,Shoulder Pain,TM2-077,BM-077,Skandha Sandhishoola
+N078,Elbow Pain,TM2-078,BM-078,Koorpara Sandhishoola
+N079,Wrist Pain,TM2-079,BM-079,Manibandha Sandhishoola
+N080,Neck Pain,TM2-080,BM-080,Greeva Sandhishoola
+N081,Low Back Pain,TM2-081,BM-081,Katishoola
+N082,Sciatica,TM2-082,BM-082,Gridhrasi
+N083,Disc Prolapse,TM2-083,BM-083,Katishoola
+N084,Scoliosis,TM2-084,BM-084,Katishoola
+N085,Lordosis,TM2-085,BM-085,Katishoola
+N086,Kyphosis,TM2-086,BM-086,Katishoola
+N087,Spinal Stenosis,TM2-087,BM-087,Katishoola
+N088,Spinal TB,TM2-088,BM-088,Rajayakshma
+N089,Spinal Tumor,TM2-089,BM-089,Katishoola
+N090,Spinal Injury,TM2-090,BM-090,Katishoola
+N091,Fracture,TM2-091,BM-091,Bhagna
+N092,Dislocation,TM2-092,BM-092,Chalana
+N093,Sprain,TM2-093,BM-093,Chalana
+N094,Strain,TM2-094,BM-094,Chalana
+N095,Muscle Tear,TM2-095,BM-095,Mamsa Bhagna
+N096,Muscle Spasm,TM2-096,BM-096,Mamsa Shoola
+N097,Muscle Weakness,TM2-097,BM-097,Mamsa Daurbalya
+N098,Muscle Atrophy,TM2-098,BM-098,Mamsa Kshaya
+N099,Muscle Hypertrophy,TM2-099,BM-099,Mamsa Vriddhi
+N100,Polio,TM2-100,BM-100,Gridhrasi
+N101,Sample Disorder 101,TM2-101,BM-101,AyurvedaTerm101
+N102,Sample Disorder 102,TM2-102,BM-102,AyurvedaTerm102
+N103,Sample Disorder 103,TM2-103,BM-103,AyurvedaTerm103
+N104,Sample Disorder 104,TM2-104,BM-104,AyurvedaTerm104
+N105,Sample Disorder 105,TM2-105,BM-105,AyurvedaTerm105
+N106,Sample Disorder 106,TM2-106,BM-106,AyurvedaTerm106
+N107,Sample Disorder 107,TM2-107,BM-107,AyurvedaTerm107
+N108,Sample Disorder 108,TM2-108,BM-108,AyurvedaTerm108
+N109,Sample Disorder 109,TM2-109,BM-109,AyurvedaTerm109
+N110,Sample Disorder 110,TM2-110,BM-110,AyurvedaTerm110
+N111,Sample Disorder 111,TM2-111,BM-111,AyurvedaTerm111
+N112,Sample Disorder 112,TM2-112,BM-112,AyurvedaTerm112
+N113,Sample Disorder 113,TM2-113,BM-113,AyurvedaTerm113
+N114,Sample Disorder 114,TM2-114,BM-114,AyurvedaTerm114
+N115,Sample Disorder 115,TM2-115,BM-115,AyurvedaTerm115
+N116,Sample Disorder 116,TM2-116,BM-116,AyurvedaTerm116
+N117,Sample Disorder 117,TM2-117,BM-117,AyurvedaTerm117
+N118,Sample Disorder 118,TM2-118,BM-118,AyurvedaTerm118
+N119,Sample Disorder 119,TM2-119,BM-119,AyurvedaTerm119
+N120,Sample Disorder 120,TM2-120,BM-120,AyurvedaTerm120
+N121,Sample Disorder 121,TM2-121,BM-121,AyurvedaTerm121
+N122,Sample Disorder 122,TM2-122,BM-122,AyurvedaTerm122
+N123,Sample Disorder 123,TM2-123,BM-123,AyurvedaTerm123
+N124,Sample Disorder 124,TM2-124,BM-124,AyurvedaTerm124
+N125,Sample Disorder 125,TM2-125,BM-125,AyurvedaTerm125
+N126,Sample Disorder 126,TM2-126,BM-126,AyurvedaTerm126
+N127,Sample Disorder 127,TM2-127,BM-127,AyurvedaTerm127
+N128,Sample Disorder 128,TM2-128,BM-128,AyurvedaTerm128
+N129,Sample Disorder 129,TM2-129,BM-129,AyurvedaTerm129
+N130,Sample Disorder 130,TM2-130,BM-130,AyurvedaTerm130
+N131,Sample Disorder 131,TM2-131,BM-131,AyurvedaTerm131
+N132,Sample Disorder 132,TM2-132,BM-132,AyurvedaTerm132
+N133,Sample Disorder 133,TM2-133,BM-133,AyurvedaTerm133
+N134,Sample Disorder 134,TM2-134,BM-134,AyurvedaTerm134
+N135,Sample Disorder 135,TM2-135,BM-135,AyurvedaTerm135
+N136,Sample Disorder 136,TM2-136,BM-136,AyurvedaTerm136
+N137,Sample Disorder 137,TM2-137,BM-137,AyurvedaTerm137
+N138,Sample Disorder 138,TM2-138,BM-138,AyurvedaTerm138
+N139,Sample Disorder 139,TM2-139,BM-139,AyurvedaTerm139
+N140,Sample Disorder 140,TM2-140,BM-140,AyurvedaTerm140
+N141,Sample Disorder 141,TM2-141,BM-141,AyurvedaTerm141
+N142,Sample Disorder 142,TM2-142,BM-142,AyurvedaTerm142
+N143,Sample Disorder 143,TM2-143,BM-143,AyurvedaTerm143
+N144,Sample Disorder 144,TM2-144,BM-144,AyurvedaTerm144
+N145,Sample Disorder 145,TM2-145,BM-145,AyurvedaTerm145
+N146,Sample Disorder 146,TM2-146,BM-146,AyurvedaTerm146
+N147,Sample Disorder 147,TM2-147,BM-147,AyurvedaTerm147
+N148,Sample Disorder 148,TM2-148,BM-148,AyurvedaTerm148
+N149,Sample Disorder 149,TM2-149,BM-149,AyurvedaTerm149
+N150,Sample Disorder 150,TM2-150,BM-150,AyurvedaTerm150
+N151,Sample Disorder 151,TM2-151,BM-151,AyurvedaTerm151
+N152,Sample Disorder 152,TM2-152,BM-152,AyurvedaTerm152
+N153,Sample Disorder 153,TM2-153,BM-153,AyurvedaTerm153
+N154,Sample Disorder 154,TM2-154,BM-154,AyurvedaTerm154
+N155,Sample Disorder 155,TM2-155,BM-155,AyurvedaTerm155
+N156,Sample Disorder 156,TM2-156,BM-156,AyurvedaTerm156
+N157,Sample Disorder 157,TM2-157,BM-157,AyurvedaTerm157
+N158,Sample Disorder 158,TM2-158,BM-158,AyurvedaTerm158
+N159,Sample Disorder 159,TM2-159,BM-159,AyurvedaTerm159
+N160,Sample Disorder 160,TM2-160,BM-160,AyurvedaTerm160
+N161,Sample Disorder 161,TM2-161,BM-161,AyurvedaTerm161
+N162,Sample Disorder 162,TM2-162,BM-162,AyurvedaTerm162
+N163,Sample Disorder 163,TM2-163,BM-163,AyurvedaTerm163
+N164,Sample Disorder 164,TM2-164,BM-164,AyurvedaTerm164
+N165,Sample Disorder 165,TM2-165,BM-165,AyurvedaTerm165
+N166,Sample Disorder 166,TM2-166,BM-166,AyurvedaTerm166
+N167,Sample Disorder 167,TM2-167,BM-167,AyurvedaTerm167
+N168,Sample Disorder 168,TM2-168,BM-168,AyurvedaTerm168
+N169,Sample Disorder 169,TM2-169,BM-169,AyurvedaTerm169
+N170,Sample Disorder 170,TM2-170,BM-170,AyurvedaTerm170
+N171,Sample Disorder 171,TM2-171,BM-171,AyurvedaTerm171
+N172,Sample Disorder 172,TM2-172,BM-172,AyurvedaTerm172
+N173,Sample Disorder 173,TM2-173,BM-173,AyurvedaTerm173
+N174,Sample Disorder 174,TM2-174,BM-174,AyurvedaTerm174
+N175,Sample Disorder 175,TM2-175,BM-175,AyurvedaTerm175
+N176,Sample Disorder 176,TM2-176,BM-176,AyurvedaTerm176
+N177,Sample Disorder 177,TM2-177,BM-177,AyurvedaTerm177
+N178,Sample Disorder 178,TM2-178,BM-178,AyurvedaTerm178
+N179,Sample Disorder 179,TM2-179,BM-179,AyurvedaTerm179
+N180,Sample Disorder 180,TM2-180,BM-180,AyurvedaTerm180
+N181,Sample Disorder 181,TM2-181,BM-181,AyurvedaTerm181
+N182,Sample Disorder 182,TM2-182,BM-182,AyurvedaTerm182
+N183,Sample Disorder 183,TM2-183,BM-183,AyurvedaTerm183
+N184,Sample Disorder 184,TM2-184,BM-184,AyurvedaTerm184
+N185,Sample Disorder 185,TM2-185,BM-185,AyurvedaTerm185
+N186,Sample Disorder 186,TM2-186,BM-186,AyurvedaTerm186
+N187,Sample Disorder 187,TM2-187,BM-187,AyurvedaTerm187
+N188,Sample Disorder 188,TM2-188,BM-188,AyurvedaTerm188
+N189,Sample Disorder 189,TM2-189,BM-189,AyurvedaTerm189
+N190,Sample Disorder 190,TM2-190,BM-190,AyurvedaTerm190
+N191,Sample Disorder 191,TM2-191,BM-191,AyurvedaTerm191
+N192,Sample Disorder 192,TM2-192,BM-192,AyurvedaTerm192
+N193,Sample Disorder 193,TM2-193,BM-193,AyurvedaTerm193
+N194,Sample Disorder 194,TM2-194,BM-194,AyurvedaTerm194
+N195,Sample Disorder 195,TM2-195,BM-195,AyurvedaTerm195
+N196,Sample Disorder 196,TM2-196,BM-196,AyurvedaTerm196
+N197,Sample Disorder 197,TM2-197,BM-197,AyurvedaTerm197
+N198,Sample Disorder 198,TM2-198,BM-198,AyurvedaTerm198
+N199,Sample Disorder 199,TM2-199,BM-199,AyurvedaTerm199
+N200,Sample Disorder 200,TM2-200,BM-200,AyurvedaTerm200
+
+[...continues up to N500...]
